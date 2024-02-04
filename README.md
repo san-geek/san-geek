@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @san-geek
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Front-end
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in Electronics Engineering
+- 🌱 I’m currently learning VLSI tools
+- 💞️ I’m looking forward to MSc. in EEE
 - 📫 How to reach me - akther.sanzida01@gmail.com
 
 <!---
